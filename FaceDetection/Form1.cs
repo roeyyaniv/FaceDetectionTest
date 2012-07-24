@@ -23,6 +23,8 @@ namespace FaceDetection
             string s3a = "commiting to the dev branch again";
 
             string s5 = "starting the dev2 branch";
+            string s6 = "another dev2 commit";
+
 
 
         }
