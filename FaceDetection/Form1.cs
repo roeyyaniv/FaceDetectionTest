@@ -18,6 +18,8 @@ namespace FaceDetection
             string s1 = s + "another test";
 
             string s2 = "another change";
+
+            string s3 = "testing out the branching stuff";
         }
     }
 
