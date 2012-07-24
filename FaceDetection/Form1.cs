@@ -14,6 +14,10 @@ namespace FaceDetection
         public Form1()
         {
             InitializeComponent();
+            string s = "trying something out";
+            string s1 = s + "another test";
+
+            string s2 = "another change";
         }
     }
 
