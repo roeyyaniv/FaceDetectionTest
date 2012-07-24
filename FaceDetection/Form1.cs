@@ -18,7 +18,15 @@ namespace FaceDetection
             string s1 = s + "another test";
 
             string s2 = "another change";
+            
+            string s3 = "testing out the branching stuff";
+            string s3a = "commiting to the dev branch again";
             string s4 = "commiting to the master again.";
+            string s5 = "starting the dev2 branch";
+            string s6 = "another dev2 commit";
+
+
+
         }
     }
 
